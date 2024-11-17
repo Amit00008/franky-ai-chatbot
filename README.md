@@ -10,7 +10,7 @@ Welcome to the Franky AI Chatbot project! This  will guide you through the setup
 - [Contributing](#contributing)
 - [License](#license)
 
-## - Live website [here](franky.amitfr.tech) 
+## - Live website [here](https://franky.amitfr.tech) 
 
 ## Introduction
 
