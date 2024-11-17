@@ -4,7 +4,7 @@ import axios from 'axios';
 import { IoSend } from "react-icons/io5";
 import Home from './Home';
 import logo from '../assets/logo.png';
-const apikey = 'YOUR_API_KEY_HERE';
+const apikey = 'AIzaSyBrZlKE1kZ1Ro0_4_vHCYwJCWCDyUsHFpc';
 
 
 function Chatbox() {
