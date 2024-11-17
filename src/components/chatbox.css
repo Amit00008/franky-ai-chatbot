@@ -92,6 +92,7 @@
     background-color: #1a1a1a;
     color: #fff;
     outline: none;
+    box-shadow: 0 0 10px #912ba3;
 }
 
 .chat-input button {
