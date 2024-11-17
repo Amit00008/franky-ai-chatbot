@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.home-logo {
+    height: 16rem;
+    padding: 1.5em;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.home-logo:hover {
+    filter: drop-shadow(0 0 2em #7d11cfaa);
+}
+
+.txt {
+    color: #6b1884;
+    font-size: 7rem;
+    font-weight: 700;
+}
+
+.home-main p{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 700;
+   
+}
+
+.home-main button { 
+    cursor: pointer;
+    position: absolute;
+    bottom: 90px;
+}
+
+    
